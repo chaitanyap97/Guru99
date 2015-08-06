@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [BLR_Analytics]" parallel="tests">
+  <test name="Login(failed)" parallel="tests">
+    <classes>
+      <class name="GitTestDemo.AppTest">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- GitTestDemo.AppTest -->
+    </classes>
+  </test> <!-- Login(failed) -->
+</suite> <!-- Failed suite [BLR_Analytics] -->
