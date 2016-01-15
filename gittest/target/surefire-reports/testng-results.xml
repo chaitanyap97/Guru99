@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BLR_Analytics" duration-ms="15119" started-at="2016-01-15T11:16:11Z" finished-at="2016-01-15T11:16:26Z">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="15119" started-at="2016-01-15T11:16:11Z" finished-at="2016-01-15T11:16:26Z">
+      <class name="guru99.gittest.AppTest">
+        <test-method status="PASS" signature="guru99tutorials()[pri:0, instance:guru99.gittest.AppTest@71971d92]" name="guru99tutorials" duration-ms="15106" started-at="2016-01-15T16:46:11Z" finished-at="2016-01-15T16:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guru99tutorials -->
+      </class> <!-- guru99.gittest.AppTest -->
+    </test> <!-- Login -->
+  </suite> <!-- BLR_Analytics -->
+</testng-results>
