@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BLR_Analytics" duration-ms="17182" started-at="2016-01-15T09:05:25Z" finished-at="2016-01-15T09:05:42Z">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="17182" started-at="2016-01-15T09:05:25Z" finished-at="2016-01-15T09:05:42Z">
+      <class name="guru99.tutorials.AppTest">
+        <test-method status="PASS" signature="guru99tutorials()[pri:0, instance:guru99.tutorials.AppTest@71971d92]" name="guru99tutorials" duration-ms="17168" started-at="2016-01-15T14:35:25Z" finished-at="2016-01-15T14:35:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guru99tutorials -->
+      </class> <!-- guru99.tutorials.AppTest -->
+    </test> <!-- Login -->
+  </suite> <!-- BLR_Analytics -->
+</testng-results>
